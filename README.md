@@ -11,6 +11,7 @@
 
 * Frontend Development
 * Backend Development
+* Web accessability
 * Machine Learning
 
 #### I can be contacted at:

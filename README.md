@@ -7,7 +7,7 @@
 * Python (Django) :snake:
 * HTML/CSS :orange_heart:
 * Regex :heart:
-* strap 💙
+* strapi 💙
 
 ## My aspiration is to become a full-time developer and work on interesting projects with great people. My main areas of interest are;
 

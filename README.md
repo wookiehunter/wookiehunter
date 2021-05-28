@@ -2,11 +2,12 @@
 
 ## I am relatively new to coding, I started learning  mid-2020 as a way to combat depression, and am learning;
 
-* JavaScript / MERN / TypeSript :blue_heart:
+* JavaScript / MERN / nextjsd / TypeSript :blue_heart:
 * PHP / LAMP :green_heart:
 * Python (Django) :snake:
 * HTML/CSS :orange_heart:
 * Regex :heart:
+* strap 💙
 
 ## My aspiration is to become a full-time developer and work on interesting projects with great people. My main areas of interest are;
 

@@ -8,7 +8,7 @@
 * Strapi CMS and WordPress 💙
 * MySQL, Postgresql and MongoDB 🖤
 
-## My aspiration is to become a full-time developer and work on interesting projects with great people. My main areas of interest are;
+## I am a freelance Fullstack Developer, I focus on;
 
 * Frontend Development
 * Backend Development

@@ -2,9 +2,7 @@
 
 * JavaScript / MERN / nextjs / react-native / TypeSript :blue_heart:
 * PHP / LAMP :green_heart:
-* Python (Django) :snake:
 * HTML/CSS :orange_heart:
-* Regex :heart:
 * Strapi CMS and WordPress 💙
 * MySQL, Postgresql and MongoDB 🖤
 

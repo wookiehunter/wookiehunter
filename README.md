@@ -1,6 +1,6 @@
-# Hi, I’m @wookiehunter
+# Hi, I’m Steven and I am a freelance develop who loves learning new things.
 
-* JavaScript / MERN / nextjsd / TypeSript :blue_heart:
+* JavaScript / MERN / nextjs / react-native / TypeSript :blue_heart:
 * PHP / LAMP :green_heart:
 * Python (Django) :snake:
 * HTML/CSS :orange_heart:
@@ -8,11 +8,11 @@
 * Strapi CMS and WordPress 💙
 * MySQL, Postgresql and MongoDB 🖤
 
-## I am a freelance Fullstack Developer, I focus on;
+## I focus on;
 
 * Frontend Development
 * Backend Development
-* Web accessability
+* Mobile Apps
 
 #### I can be contacted at:
 :e-mail: steven@xenos-design.co.uk

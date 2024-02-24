@@ -13,6 +13,4 @@
 * Mobile Apps
 
 #### I can be contacted at:
-:e-mail: steven@xenos-design.co.uk
-:office: (www.xenos-design.co.uk)
 :house_with_garden: (www.stevengodson.com)

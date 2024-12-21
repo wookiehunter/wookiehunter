@@ -1,4 +1,4 @@
-# Hi, I’m Steven and I am a freelance develop who loves learning new things.
+# Hi, I’m Steven and I enjoy learning new things.
 
 * JavaScript / MERN / nextjs / react-native / TypeSript :blue_heart:
 * PHP / LAMP :green_heart:
@@ -11,6 +11,7 @@
 * Frontend Development
 * Backend Development
 * Mobile Apps
+* AWS
 
 #### I can be contacted at:
 :house_with_garden: (www.stevengodson.com)
